@@ -12,7 +12,8 @@ and to Daniel Ophir, who contributed his expertise in animation. Without their h
 I am truly grateful for their contributions and proud to have worked with such talented individuals.
 
 # Basic Overview
-https://user-images.githubusercontent.com/108233349/235146533-137586cf-38cd-4a0c-a41c-ae3df0a4948d.mov
+<video width="480" height="320" controls>
+<source src="https://user-images.githubusercontent.com/108233349/235146533-137586cf-38cd-4a0c-a41c-ae3df0a4948d.mov">
 # Explanation Of The TTS Mmodel
 I used Tacotron2 and HifiGAN for the TTS model.
 
