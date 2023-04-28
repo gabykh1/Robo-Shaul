@@ -12,7 +12,7 @@ and to Daniel Ophir, who contributed his expertise in animation. Without their h
 I am truly grateful for their contributions and proud to have worked with such talented individuals.
 
 # Basic Overview
-![ROBOSHAUL](https://user-images.githubusercontent.com/108233349/235229912-23b20e5c-3818-462c-acce-954ffa064e74.gif)
+![ROBOSHAUL](https://user-images.githubusercontent.com/108233349/235231187-003228b8-7bb1-4afd-9436-5928faba26ed.gif)
 
 The magic is the process that the text goes through, from the interface code and the tts models until we have a voice
 # Visualize Robo-Shaul Speaks
