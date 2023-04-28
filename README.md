@@ -5,9 +5,10 @@ Welcome to the Hebrew Clone Voice project, featuring "Robo-shaul"!
 This project uses advanced speech synthesis technology to create a lifelike Hebrew voice that closely mimics the unique vocal qualities of Shaul Amsterdamski.
 Using a combination of Tacotron2 and HifiGAN, I've created a state-of-the-art voice synthesis system that delivers unparalleled realism and clarity.
 
-
+# Basic Overview
+pass
 # Explanation Of The TTS Mmodel
-In this repo I used Tacotron2 and HifiGAN
+I used Tacotron2 and HifiGAN for the TTS model.
 
 Tacotron2 is a neural network-based text-to-speech system that generates speech from written text. The system is based on a sequence-to-sequence architecture, which takes as input a sequence of text characters and outputs a sequence of audio samples that correspond to the text. Tacotron2 is trained using a large corpus of audio recordings and their corresponding transcripts, which allows the system to learn the mapping between text and speech.
 
