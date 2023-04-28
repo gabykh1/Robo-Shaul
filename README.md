@@ -17,6 +17,7 @@ I am truly grateful for their contributions and proud to have worked with such t
 The magic is the process that the text goes through, from the interface code and the tts models until we have a voice
 # Visualize Robo-Shaul Speaks
 https://user-images.githubusercontent.com/108233349/235146533-137586cf-38cd-4a0c-a41c-ae3df0a4948d.mov
+
 "גבי אל תכניס לי מילים לפה"
 # Explanation Of The TTS Mmodel
 I used Tacotron2 and HifiGAN for the TTS model.
