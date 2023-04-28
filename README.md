@@ -5,6 +5,12 @@ Welcome to the Hebrew Clone Voice project, featuring "Robo-shaul"!
 This project uses advanced speech synthesis technology to create a lifelike Hebrew voice that closely mimics the unique vocal qualities of Shaul Amsterdamski.
 Using a combination of Tacotron2 and HifiGAN, I've created a state-of-the-art voice synthesis system that delivers unparalleled realism and clarity.
 
+I would like to express my deepest gratitude to the talented individuals who contributed to the development of this project.
+Special thanks go to Nir Geller @Nir Geller, who provided invaluable expertise in coding and implementing the automation with the transliteration.
+I also extend my thanks to Moshe Moyal @1moshe135, who generously provided his skills in creating the 3D model of the Shaul Amsterdamski,
+and to Daniel Ophir, who contributed his expertise in animation. Without their hard work and dedication, this project would not have been possible.
+I am truly grateful for their contributions and proud to have worked with such talented individuals.
+
 # Basic Overview
 pass
 # Explanation Of The TTS Mmodel
