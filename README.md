@@ -33,7 +33,7 @@ In the Hebrew Clone Voice project, I've combined Tacotron2 and HifiGAN to create
 |input   | output|
 |--------|-------|
 אני חושב מה להגיד|https://user-images.githubusercontent.com/108233349/235322827-a1e217af-112f-4ef9-9866-78be57c20ebe.mp4|
-
+https://user-images.githubusercontent.com/108233349/235322827-a1e217af-112f-4ef9-9866-78be57c20ebe.mp4
 
 
 
