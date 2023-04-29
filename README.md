@@ -30,10 +30,12 @@ In the Hebrew Clone Voice project, I've combined Tacotron2 and HifiGAN to create
 
 # Examples
 
-|input   | output|
+|קלט   | פלט|
 |--------|-------|
 אני חושב מה להגיד|https://user-images.githubusercontent.com/108233349/235322827-a1e217af-112f-4ef9-9866-78be57c20ebe.mp4|
-https://user-images.githubusercontent.com/108233349/235322827-a1e217af-112f-4ef9-9866-78be57c20ebe.mp4
+|גבי אל תכניס לי מילים לפה|https://user-images.githubusercontent.com/108233349/235323176-ebf7239a-bc4d-484d-ba94-c5f7decd380c.mp4
+
+| 
 
 
 
