@@ -31,11 +31,21 @@ In the Hebrew Clone Voice project, I've combined Tacotron2 and HifiGAN to create
 # Examples
 
 |קלט   | פלט|
-|--------|-------|
-אני חושב מה להגיד|https://user-images.githubusercontent.com/108233349/235322827-a1e217af-112f-4ef9-9866-78be57c20ebe.mp4|
-|גבי אל תכניס לי מילים לפה|https://user-images.githubusercontent.com/108233349/235323176-ebf7239a-bc4d-484d-ba94-c5f7decd380c.mp4
-
-| 
+|-----------|----------|
+|אני חושב מה להגיד|https://user-images.githubusercontent.com/108233349/235322827-a1e217af-112f-4ef9-9866-78be57c20ebe.mp4|
+|גבי אל תכניס לי מילים לפה|https://user-images.githubusercontent.com/108233349/235323176-ebf7239a-bc4d-484d-ba94-c5f7decd380c.mp4|
+|התחביב שלך מפגר|https://user-images.githubusercontent.com/108233349/235323265-63f3ba2d-282c-4ec8-8451-cfc867bbf847.mp4|
+|אני רוצה פודקאסט משלי|https://user-images.githubusercontent.com/108233349/235323381-e2aa0c31-297d-44ab-af23-ee20b517499c.mp4|
+|אני רוצה גם|https://user-images.githubusercontent.com/108233349/235323393-9707fba6-ef36-4f87-b484-9a5aa4836b1d.mp4|
+|מיליון דולר והודעה מראש הממשלה שאני הפרשן הכי טוב|https://user-images.githubusercontent.com/108233349/235323418-79da97d1-2dfd-452c-b1a6-bd8999046afd.mp4|
+|אם זה נשמע כמו שאול מדבר כמו שאול ועם משפטים כמו של שאול זה כנראה קוד של גבי|https://user-images.githubusercontent.com/108233349/235323439-a7f650d0-5a85-4598-9c9e-71486258e87b.mp4|
+|תודה רבה לניר גלי|https://user-images.githubusercontent.com/108233349/235323317-08d78915-fd1c-45e8-86ba-0444c02d4ef9.mp4|
+|תודה רבה למשה מויאל|https://user-images.githubusercontent.com/108233349/235323331-3636e4e6-a447-468d-8a9a-fb84d59ba21b.mp4|
+|תודה רבה לדניאל אופיר|https://user-images.githubusercontent.com/108233349/235323358-e2f8b2bd-dd2b-46b4-b106-d096ded225b8.mp4|
+|אני מחפש את הרובוטית להקים איתה משפחה|https://user-images.githubusercontent.com/108233349/235323453-d7dc5265-7655-4df6-8ce8-7544aa70e3c1.mp4|
+|אני רוצה ליצור שוק ריכוזי שלי, מתכנתים יכתבו לי קוד ואני אפתח את החברה פנסיה בלי מע"מ|https://user-images.githubusercontent.com/108233349/235323512-b0f3eef9-e037-4670-b881-2a8f60518ff4.mp4|
+|זה בסדר אם אתה לא אוהב אותי לא לכולם יש טעם טוב|https://user-images.githubusercontent.com/108233349/235323567-3603c53a-efa1-4fc9-abad-03fb22080e5d.mp4|
+|רובוטים זה הדיבור היום|https://user-images.githubusercontent.com/108233349/235323586-454a6756-c308-45ee-beb5-c77cab82bc53.mp4|
 
 
 
