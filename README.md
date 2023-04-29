@@ -28,3 +28,7 @@ HifiGAN is a generative adversarial network (GAN) that is used to enhance the qu
 
 In the Hebrew Clone Voice project, I've combined Tacotron2 and HifiGAN to create a system that generates high-quality, lifelike Hebrew speech that sounds just like the Shaul character. my system is trained on a large corpus of Hebrew audio recordings, which allows it to accurately capture the unique phonetic features of the Hebrew language. With my system, you can now create your own Hebrew Clone Voice for any text you input.
 
+# Examples
+
+
+
