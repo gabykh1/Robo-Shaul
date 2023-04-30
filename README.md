@@ -50,8 +50,12 @@ In the Hebrew Clone Voice project, I've combined Tacotron2 and HifiGAN to create
 # How To Train Your Own Robo-Shaul TTS - **optional**
 If you want to use my training model skip this part
 To be continued
-# How To Use My Trained voice to create
-To be continued
+# creating voice
+*set up*
+Dounload all the "interface" folder on your pc and run "interface.py"
+![interface](https://user-images.githubusercontent.com/108233349/235344432-d626d9eb-e66a-4bf3-ac16-54c24f6cc7fb.PNG)
+
+Run the "Synthesys Notbook" and put your trained model id (The default is the trained model I made)
 # 3D model
 To be continued
 
