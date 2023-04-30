@@ -57,7 +57,7 @@ If you want to use my training model skip this part.
 1. Dounload all the "interface" folder on your pc and run "interface.py".
 ![interface](https://user-images.githubusercontent.com/108233349/235344432-d626d9eb-e66a-4bf3-ac16-54c24f6cc7fb.PNG)
 
-2. Run the "Synthesys Notbook" and put your trained model id (The default is the trained model I made)
+2. Run the "Synthesis Notbook" and put your trained model id (The default is the trained model I made)
 # 3D model
 To be continued
 
