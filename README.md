@@ -48,12 +48,13 @@ HifiGAN is a generative adversarial network (GAN) that is used to enhance the qu
 In the Hebrew Clone Voice project, I've combined Tacotron2 and HifiGAN to create a system that generates high-quality, lifelike Hebrew speech that sounds just like the Shaul character. my system is trained on a large corpus of Hebrew audio recordings, which allows it to accurately capture the unique phonetic features of the Hebrew language. With my system, you can now create your own Hebrew Clone Voice for any text you input.
 
 # How To Train Your Own Robo-Shaul TTS - **optional**
-If you want to use my training model skip this part
+If you want to use my training model skip this part.
 
-1. [Dounload the dataset from the](https://story.kan.org.il/robo_shaul) 
-To be continued
+1. [Dounload the dataset](https://story.kan.org.il/robo_shaul)
+2. Dounload the jupyter notebook and put in one folder the notebook and "metadata.xlsx"
+3. run the "Training Notebook" while the zip wavs in your drive, and paste the list.txt in the notebook
 # creating voice
-1. Dounload all the "interface" folder on your pc and run "interface.py"
+1. Dounload all the "interface" folder on your pc and run "interface.py".
 ![interface](https://user-images.githubusercontent.com/108233349/235344432-d626d9eb-e66a-4bf3-ac16-54c24f6cc7fb.PNG)
 
 2. Run the "Synthesys Notbook" and put your trained model id (The default is the trained model I made)
